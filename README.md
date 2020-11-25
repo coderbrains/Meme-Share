@@ -6,7 +6,7 @@ The main focus of Meme-share is to change our mood to to full of joy. This App i
 
 ***
 
-You can run this Android app on Appetize.io <a href="https://appetize.io/app/06wpw6dgrdg02v042qxrcjt1y8?device=nexus5&scale=100&orientation=portrait&osVersion=7.1&deviceColor=black">here</a>.
+You can run this Android app on Appetize.io <a href="https://appetize.io/app/572u57j0jr320ygt1q6kpg0u8c?device=nexus5&scale=75&orientation=portrait&osVersion=8.1">here</a>.
 
 <h3>YouTube Link</h3>
 <a href="https://www.youtube.com/channel/UC4CwQWuy47lTFP8-RhtF8lw/playlists"><img src="http://img.youtube.com/vi/syQZ8loBql4/0.jpg" 
