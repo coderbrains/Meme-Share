@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meme Share</string>
+    <string name="previous">Previous</string>
+    <string name="share">Share</string>
+    <string name="next">next</string>
+    <string name="todo">TODO</string>
+    <string name="memeshare_Image">imagetext</string>
+    <string name="welcome_to_the">Welcome to the हँसी का फ़ौवारा</string>
+</resources>
